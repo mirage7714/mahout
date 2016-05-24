@@ -1,4 +1,4 @@
-##Souce code for mahout application
+##Source code for mahout application
 
 ###This project is some sample code of mahout application and is on Java based. 
 
